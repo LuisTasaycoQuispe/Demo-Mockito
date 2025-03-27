@@ -1,0 +1,5 @@
+/workspaces/Demo-Mockito/src/main/java/pe/edu/vallegrande/Mockito/MockitoApplication.java
+/workspaces/Demo-Mockito/src/main/java/pe/edu/vallegrande/Mockito/model/User.java
+/workspaces/Demo-Mockito/src/main/java/pe/edu/vallegrande/Mockito/repository/InMemoryUserRepository.java
+/workspaces/Demo-Mockito/src/main/java/pe/edu/vallegrande/Mockito/repository/UserRepository.java
+/workspaces/Demo-Mockito/src/main/java/pe/edu/vallegrande/Mockito/service/UserService.java
